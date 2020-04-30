@@ -1,0 +1,38 @@
+﻿{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onTimer"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"staticPicture": {
+					"type": "picture",
+					"top": 30,
+					"left": 26,
+					"width": 444,
+					"height": 188,
+					"picture": "/RESOURCES/Images/velo-1.gif"
+				}
+			}
+		}
+	],
+	"method": "method.4dm"
+}
